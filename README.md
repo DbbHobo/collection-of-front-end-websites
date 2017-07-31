@@ -2,8 +2,8 @@
 study hard  day day up ✧(≖ ◡ ≖✿)
 
 # 资源汇总类
-[前端教程&开发模块化/规范化/工程化/优化&工具/调试&值得关注的博客/Git&面试-资源汇总 - xzavier - SegmentFault](https://segmentfault.com/a/1190000007062464)
-[每个CS系学生都应该知道的事](http://blog.jobbole.com/101168/)
+* [前端教程&开发模块化/规范化/工程化/优化&工具/调试&值得关注的博客/Git&面试-资源汇总 - xzavier - SegmentFault](https://segmentfault.com/a/1190000007062464)
+* [每个CS系学生都应该知道的事](http://blog.jobbole.com/101168/)
 [结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)
 [值得订阅的 12 份优质前端期刊](https://www.h5jun.com/post/the-12-best-weekly.html)
 [JavaScript-The Right Way](http://jstherightway.org/#getting-started)
