@@ -28,7 +28,7 @@ study hard day day up ✧(≖ ◡ ≖✿)
 # Webpack
 
 - [webpack](https://webpack.js.org/)
-- [深入浅出 webpack])(https://webpack.wuhaolin.cn/)
+- [深入浅出 webpack](https://webpack.wuhaolin.cn/)
 
 # Vue
 
